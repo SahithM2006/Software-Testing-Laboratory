@@ -17,23 +17,11 @@ Write a python program to check the number is prime or not and inspect for failu
 
 ### Program:
 
-
-
-
-
-
-
-
-
-
-
-
+![Screenshot 2025-04-10 082424](https://github.com/user-attachments/assets/0d5f3892-87de-4f1b-a22d-f6fc5cf71fa1)
 
 ### Output:
 
-
-
-
+![Screenshot 2025-04-10 082500](https://github.com/user-attachments/assets/0f119c81-9492-44b1-8475-8c006302a6fb)
 
 ### Result:
 Thus, the python program to check the number is prime or not is implemented and the output is verified successfully.
