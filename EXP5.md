@@ -14,22 +14,10 @@ Write a python program to check the number is Armstrong number or not and inspec
 9.	Stop the program.
 
 ### Program:
-
-
-
-
-
-
-
-
-
-
-
-
+![Screenshot 2025-04-24 091325](https://github.com/user-attachments/assets/e2a57a60-660e-4b84-970e-ec523a9a9ccb)
 
 ### Output:
-
-
+![Screenshot 2025-04-24 091438](https://github.com/user-attachments/assets/c517faf0-f25e-439e-9b73-86fe8af9304a)
 
 ### Result:
 Thus, the python program to check the number is Armstrong number or not implemented and the output is verified successfully.
